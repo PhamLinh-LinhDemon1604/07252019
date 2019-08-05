@@ -705,7 +705,7 @@ p {
 }
 .aside-close {
   position: absolute;
-  top: 20px;
+  top: 30px;
   right: 22px;
   transform: translateY(-50%);
   width: 22px;
