@@ -908,3 +908,6 @@ img {
   height: 100%;
   min-height: 1px;
 }
+.accordion-category .link-tree-wrap .accordion-wrap .link-tree-wrap > .link-tree {
+  padding-left: 65px;
+}
